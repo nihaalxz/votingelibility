@@ -1,0 +1,30 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(22, 22, 22);
+}
+
+p {
+    font-size: 2rem;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+input {
+    width: 20%;
+}
+
+.container {
+    background-color: rgb(53, 53, 54);
+    padding: 25px;
+    height: 30vh;
+    border-radius: 10px;
+}
